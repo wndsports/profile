@@ -144,7 +144,7 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell" width="570" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
-<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif; font-size: 16px;">And now we are looking forward to building great products for &nbsp;with our extensive experience and expertises:</span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif; font-size: 16px;">And now we are looking forward to building great products for you with our extensive experience and expertises:</span></p>
 <div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
 </td>
 </tr>
