@@ -459,7 +459,7 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell" width="270" height="180" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding-left: 15px; padding-right: 15px; padding-top: 10px; padding-bottom: 10px;" valign="top">
-<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px; font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;"><strong>4. Excellent Build Quality</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><em><span style="font-size: 20px; font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;"><strong>4. Excellent Build Quality</strong></span></em></p>
 <p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">Excellent Quality Assurance system;</span></p>
 <p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">The great quality chosen by the top brands and Tier 1 partners, <strong>BOTE, FLITE, HEAD and TRANSE.</strong></span><span></span></p>
 <div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
@@ -569,7 +569,7 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell" width="270" height="170" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
-<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;"><span style="font-size: 20px;"><strong>&nbsp;</strong></span><span style="font-size: 20px;"><strong>5. Reliable Supply Chain</strong></span></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;"><span style="font-size: 20px;"><strong>&nbsp;</strong></span><em><span style="font-size: 20px;"><strong>5. Reliable Supply Chain</strong></span></em></span></p>
 <p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">150+ suppliers for options；</span></p>
 <p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">Covered 700+ materials, accesories and equipment; </span></p>
 <p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">Outsourced from both China and Global</span><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;"></span></p>
@@ -841,10 +841,7 @@
 <tbody>
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="600" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
-<div id="wout_block_36_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 135; display: block;" width="100%" height="135"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="-1_03-03" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/-1_03-03.png" iout_block_36_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
-<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img " align="left" alt="-1_03-03" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/-1_03-03.png" iout_block_36_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 600px !important;" /></div>
-<!--<![endif]--></div>
-<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+<div id="wout_block_36_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 135; display: block;" width="100%" height="135"><img border="0" width="600" height="auto" class="desktop  sp-img " align="left" alt="-1_03-03" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/-1_03-03.png" iout_block_36_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
 </td>
 </tr>
 </tbody>
@@ -916,5 +913,5 @@
 </tr>
 </tbody>
 </table>
-<a target="_blank" href="https://s7839000.sendpul.se/unsubscribes/en///h/9f2e07273cbf77152471b7c048490cb1" style="font-family: -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Helvetica, Arial, sans-serif; font-size: 14px;">Click here to leave mailing list</a>
+<br />
 </body></html>
