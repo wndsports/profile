@@ -1,977 +1,741 @@
-<!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
-    <head>
-        <!-- NAME: SELL PRODUCTS -->
-        <!--[if gte mso 15]>
-        <xml>
-            <o:OfficeDocumentSettings>
-            <o:AllowPNG/>
-            <o:PixelsPerInch>96</o:PixelsPerInch>
-            </o:OfficeDocumentSettings>
-        </xml>
-        <![endif]-->
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>*|MC:SUBJECT|*</title>
-        
-    <style type="text/css">
-		p{
-			margin:10px 0;
-			padding:0;
-		}
-		table{
-			border-collapse:collapse;
-		}
-		h1,h2,h3,h4,h5,h6{
-			display:block;
-			margin:0;
-			padding:0;
-		}
-		img,a img{
-			border:0;
-			height:auto;
-			outline:none;
-			text-decoration:none;
-		}
-		body,#bodyTable,#bodyCell{
-			height:100%;
-			margin:0;
-			padding:0;
-			width:100%;
-		}
-		.mcnPreviewText{
-			display:none !important;
-		}
-		#outlook a{
-			padding:0;
-		}
-		img{
-			-ms-interpolation-mode:bicubic;
-		}
-		table{
-			mso-table-lspace:0pt;
-			mso-table-rspace:0pt;
-		}
-		.ReadMsgBody{
-			width:100%;
-		}
-		.ExternalClass{
-			width:100%;
-		}
-		p,a,li,td,blockquote{
-			mso-line-height-rule:exactly;
-		}
-		a[href^=tel],a[href^=sms]{
-			color:inherit;
-			cursor:default;
-			text-decoration:none;
-		}
-		p,a,li,td,body,table,blockquote{
-			-ms-text-size-adjust:100%;
-			-webkit-text-size-adjust:100%;
-		}
-		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
-			line-height:100%;
-		}
-		a[x-apple-data-detectors]{
-			color:inherit !important;
-			text-decoration:none !important;
-			font-size:inherit !important;
-			font-family:inherit !important;
-			font-weight:inherit !important;
-			line-height:inherit !important;
-		}
-		.templateContainer{
-			max-width:600px !important;
-		}
-		a.mcnButton{
-			display:block;
-		}
-		.mcnImage,.mcnRetinaImage{
-			vertical-align:bottom;
-		}
-		.mcnTextContent{
-			word-break:break-word;
-		}
-		.mcnTextContent img{
-			height:auto !important;
-		}
-		.mcnDividerBlock{
-			table-layout:fixed !important;
-		}
-	/*
-	@tab Page
-	@section Heading 1
-	@style heading 1
-	*/
-		h1{
-			/*@editable*/color:#222222;
-			/*@editable*/font-family:Helvetica;
-			/*@editable*/font-size:40px;
-			/*@editable*/font-style:normal;
-			/*@editable*/font-weight:bold;
-			/*@editable*/line-height:150%;
-			/*@editable*/letter-spacing:normal;
-			/*@editable*/text-align:center;
-		}
-	/*
-	@tab Page
-	@section Heading 2
-	@style heading 2
-	*/
-		h2{
-			/*@editable*/color:#222222;
-			/*@editable*/font-family:Helvetica;
-			/*@editable*/font-size:34px;
-			/*@editable*/font-style:normal;
-			/*@editable*/font-weight:bold;
-			/*@editable*/line-height:150%;
-			/*@editable*/letter-spacing:normal;
-			/*@editable*/text-align:left;
-		}
-	/*
-	@tab Page
-	@section Heading 3
-	@style heading 3
-	*/
-		h3{
-			/*@editable*/color:#444444;
-			/*@editable*/font-family:Helvetica;
-			/*@editable*/font-size:22px;
-			/*@editable*/font-style:normal;
-			/*@editable*/font-weight:bold;
-			/*@editable*/line-height:150%;
-			/*@editable*/letter-spacing:normal;
-			/*@editable*/text-align:left;
-		}
-	/*
-	@tab Page
-	@section Heading 4
-	@style heading 4
-	*/
-		h4{
-			/*@editable*/color:#949494;
-			/*@editable*/font-family:Georgia;
-			/*@editable*/font-size:20px;
-			/*@editable*/font-style:italic;
-			/*@editable*/font-weight:normal;
-			/*@editable*/line-height:125%;
-			/*@editable*/letter-spacing:normal;
-			/*@editable*/text-align:left;
-		}
-	/*
-	@tab Header
-	@section Header Container Style
-	*/
-		#templateHeader{
-			/*@editable*/background-color:#F7F7F7;
-			/*@editable*/background-image:none;
-			/*@editable*/background-repeat:no-repeat;
-			/*@editable*/background-position:center;
-			/*@editable*/background-size:cover;
-			/*@editable*/border-top:0;
-			/*@editable*/border-bottom:0;
-			/*@editable*/padding-top:45px;
-			/*@editable*/padding-bottom:45px;
-		}
-	/*
-	@tab Header
-	@section Header Interior Style
-	*/
-		.headerContainer{
-			/*@editable*/background-color:transparent;
-			/*@editable*/background-image:none;
-			/*@editable*/background-repeat:no-repeat;
-			/*@editable*/background-position:center;
-			/*@editable*/background-size:cover;
-			/*@editable*/border-top:0;
-			/*@editable*/border-bottom:0;
-			/*@editable*/padding-top:0;
-			/*@editable*/padding-bottom:0;
-		}
-	/*
-	@tab Header
-	@section Header Text
-	*/
-		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
-			/*@editable*/color:#757575;
-			/*@editable*/font-family:Helvetica;
-			/*@editable*/font-size:16px;
-			/*@editable*/line-height:150%;
-			/*@editable*/text-align:left;
-		}
-	/*
-	@tab Header
-	@section Header Link
-	*/
-		.headerContainer .mcnTextContent a,.headerContainer .mcnTextContent p a{
-			/*@editable*/color:#007C89;
-			/*@editable*/font-weight:normal;
-			/*@editable*/text-decoration:underline;
-		}
-	/*
-	@tab Body
-	@section Body Container Style
-	*/
-		#templateBody{
-			/*@editable*/background-color:#FFFFFF;
-			/*@editable*/background-image:none;
-			/*@editable*/background-repeat:no-repeat;
-			/*@editable*/background-position:center;
-			/*@editable*/background-size:cover;
-			/*@editable*/border-top:0;
-			/*@editable*/border-bottom:0;
-			/*@editable*/padding-top:36px;
-			/*@editable*/padding-bottom:45px;
-		}
-	/*
-	@tab Body
-	@section Body Interior Style
-	*/
-		.bodyContainer{
-			/*@editable*/background-color:transparent;
-			/*@editable*/background-image:none;
-			/*@editable*/background-repeat:no-repeat;
-			/*@editable*/background-position:center;
-			/*@editable*/background-size:cover;
-			/*@editable*/border-top:0;
-			/*@editable*/border-bottom:0;
-			/*@editable*/padding-top:0;
-			/*@editable*/padding-bottom:0;
-		}
-	/*
-	@tab Body
-	@section Body Text
-	*/
-		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
-			/*@editable*/color:#757575;
-			/*@editable*/font-family:Helvetica;
-			/*@editable*/font-size:16px;
-			/*@editable*/line-height:150%;
-			/*@editable*/text-align:left;
-		}
-	/*
-	@tab Body
-	@section Body Link
-	*/
-		.bodyContainer .mcnTextContent a,.bodyContainer .mcnTextContent p a{
-			/*@editable*/color:#007C89;
-			/*@editable*/font-weight:normal;
-			/*@editable*/text-decoration:underline;
-		}
-	/*
-	@tab Footer
-	@section Footer Style
-	*/
-		#templateFooter{
-			/*@editable*/background-color:#333333;
-			/*@editable*/background-image:none;
-			/*@editable*/background-repeat:no-repeat;
-			/*@editable*/background-position:center;
-			/*@editable*/background-size:cover;
-			/*@editable*/border-top:0;
-			/*@editable*/border-bottom:0;
-			/*@editable*/padding-top:45px;
-			/*@editable*/padding-bottom:63px;
-		}
-	/*
-	@tab Footer
-	@section Footer Interior Style
-	*/
-		.footerContainer{
-			/*@editable*/background-color:transparent;
-			/*@editable*/background-image:none;
-			/*@editable*/background-repeat:no-repeat;
-			/*@editable*/background-position:center;
-			/*@editable*/background-size:cover;
-			/*@editable*/border-top:0;
-			/*@editable*/border-bottom:0;
-			/*@editable*/padding-top:0;
-			/*@editable*/padding-bottom:0;
-		}
-	/*
-	@tab Footer
-	@section Footer Text
-	*/
-		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
-			/*@editable*/color:#FFFFFF;
-			/*@editable*/font-family:Helvetica;
-			/*@editable*/font-size:12px;
-			/*@editable*/line-height:150%;
-			/*@editable*/text-align:center;
-		}
-	/*
-	@tab Footer
-	@section Footer Link
-	*/
-		.footerContainer .mcnTextContent a,.footerContainer .mcnTextContent p a{
-			/*@editable*/color:#FFFFFF;
-			/*@editable*/font-weight:normal;
-			/*@editable*/text-decoration:underline;
-		}
-	@media only screen and (min-width:768px){
-		.templateContainer{
-			width:600px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		body,table,td,p,a,li,blockquote{
-			-webkit-text-size-adjust:none !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		body{
-			width:100% !important;
-			min-width:100% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnRetinaImage{
-			max-width:100% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnImage{
-			width:100% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaptionBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRightImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCardRightImageContentContainer{
-			max-width:100% !important;
-			width:100% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnBoxedTextContentContainer{
-			min-width:100% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnImageGroupContent{
-			padding:9px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .mcnTextContent{
-			padding-top:9px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCaptionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child .mcnTextContent{
-			padding-top:18px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnImageCardBottomImageContent{
-			padding-bottom:9px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnImageGroupBlockInner{
-			padding-top:0 !important;
-			padding-bottom:0 !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnImageGroupBlockOuter{
-			padding-top:9px !important;
-			padding-bottom:9px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnTextContent,.mcnBoxedTextContentColumn{
-			padding-right:18px !important;
-			padding-left:18px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
-			padding-right:18px !important;
-			padding-bottom:0 !important;
-			padding-left:18px !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-		.mcpreview-image-uploader{
-			display:none !important;
-			width:100% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Heading 1
-	@tip Make the first-level headings larger in size for better readability on small screens.
-	*/
-		h1{
-			/*@editable*/font-size:30px !important;
-			/*@editable*/line-height:125% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Heading 2
-	@tip Make the second-level headings larger in size for better readability on small screens.
-	*/
-		h2{
-			/*@editable*/font-size:26px !important;
-			/*@editable*/line-height:125% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Heading 3
-	@tip Make the third-level headings larger in size for better readability on small screens.
-	*/
-		h3{
-			/*@editable*/font-size:20px !important;
-			/*@editable*/line-height:150% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Heading 4
-	@tip Make the fourth-level headings larger in size for better readability on small screens.
-	*/
-		h4{
-			/*@editable*/font-size:18px !important;
-			/*@editable*/line-height:150% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Boxed Text
-	@tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
-	*/
-		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTextContent p{
-			/*@editable*/font-size:14px !important;
-			/*@editable*/line-height:150% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Header Text
-	@tip Make the header text larger in size for better readability on small screens.
-	*/
-		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
-			/*@editable*/font-size:16px !important;
-			/*@editable*/line-height:150% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Body Text
-	@tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
-	*/
-		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
-			/*@editable*/font-size:16px !important;
-			/*@editable*/line-height:150% !important;
-		}
-
-}	@media only screen and (max-width: 480px){
-	/*
-	@tab Mobile Styles
-	@section Footer Text
-	@tip Make the footer content text larger in size for better readability on small screens.
-	*/
-		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
-			/*@editable*/font-size:14px !important;
-			/*@editable*/line-height:150% !important;
-		}
-
-}</style></head>
-    <body>
-        <!--*|IF:MC_PREVIEW_TEXT|*-->
-        <!--[if !gte mso 9]><!----><span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]-->
-        <!--*|END:IF|*-->
-        <center>
-            <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
-                <tr>
-                    <td align="center" valign="top" id="bodyCell">
-                        <!-- BEGIN TEMPLATE // -->
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                            <tr>
-                                <td align="center" valign="top" id="templateHeader" data-template-container>
-                                    <!--[if (gte mso 9)|(IE)]>
-                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
-                                    <tr>
-                                    <td align="center" valign="top" width="600" style="width:600px;">
-                                    <![endif]-->
-                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
-                                        <tr>
-                                            <td valign="top" class="headerContainer"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width:100%;">
-    <tbody class="mcnImageBlockOuter">
-            <tr>
-                <td valign="top" style="padding:9px" class="mcnImageBlockInner">
-                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width:100%;">
-                        <tbody><tr>
-                            <td class="mcnImageContent" valign="top" style="padding-right: 9px; padding-left: 9px; padding-top: 0; padding-bottom: 0; text-align:center;">
-                                
-                                    
-                                        <img align="center" alt="" src="*|BRAND:LOGO|*" width="196" style="max-width:196px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage">
-                                    
-                                
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </td>
-            </tr>
-    </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top:9px;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
-			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
-                    <tbody><tr>
-                        
-                        <td valign="top" class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;">
-                        
-                            <h1>Showcase your products.</h1>
-                        </td>
-                    </tr>
-                </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
-</table></td>
-                                        </tr>
-                                    </table>
-                                    <!--[if (gte mso 9)|(IE)]>
-                                    </td>
-                                    </tr>
-                                    </table>
-                                    <![endif]-->
-                                </td>
-                            </tr>
-                            <tr>
-                                <td align="center" valign="top" id="templateBody" data-template-container>
-                                    <!--[if (gte mso 9)|(IE)]>
-                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
-                                    <tr>
-                                    <td align="center" valign="top" width="600" style="width:600px;">
-                                    <![endif]-->
-                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
-                                        <tr>
-                                            <td valign="top" class="bodyContainer"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width:100%;">
-    <tbody class="mcnImageBlockOuter">
-            <tr>
-                <td valign="top" style="padding:9px" class="mcnImageBlockInner">
-                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width:100%;">
-                        <tbody><tr>
-                            <td class="mcnImageContent" valign="top" style="padding-right: 9px; padding-left: 9px; padding-top: 0; padding-bottom: 0; text-align:center;">
-                                
-                                    
-                                        <img align="center" alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/sell-products-full.png" width="564" style="max-width:564px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage">
-                                    
-                                
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </td>
-            </tr>
-    </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top:9px;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
-			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
-                    <tbody><tr>
-                        
-                        <td valign="top" class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;">
-                        
-                            <h3>Feature the star of your collection first.</h3><p>To get started, replace the image above with a striking product photo to catch people's attention.</p><p>Then, describe what makes your product unique, useful, or gift-worthy. Be sure to highlight the main features, and let people know where it's available.</p>
-                        </td>
-                    </tr>
-                </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnButtonBlock" style="min-width:100%;">
-    <tbody class="mcnButtonBlockOuter">
-        <tr>
-            <td style="padding-top:0; padding-right:18px; padding-bottom:18px; padding-left:18px;" valign="top" align="center" class="mcnButtonBlockInner">
-                <table border="0" cellpadding="0" cellspacing="0" class="mcnButtonContentContainer" style="border-collapse: separate !important;border-radius: 3px;background-color: #009FC7;">
-                    <tbody>
-                        <tr>
-                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: Helvetica; font-size: 18px; padding: 18px;">
-                                <a class="mcnButton " title="Start Shopping" href="#" target="_blank" style="font-weight: bold;letter-spacing: -0.5px;line-height: 100%;text-align: center;text-decoration: none;color: #FFFFFF;">Start Shopping</a>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </td>
-        </tr>
-    </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="min-width:100%;">
-    <tbody class="mcnDividerBlockOuter">
-        <tr>
-            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
-                <table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%;">
-                    <tbody><tr>
-                        <td>
-                            <span></span>
-                        </td>
-                    </tr>
-                </tbody></table>
-<!--            
-                <td class="mcnDividerBlockInner" style="padding: 18px;">
-                <hr class="mcnDividerContent" style="border-bottom-color:none; border-left-color:none; border-right-color:none; border-bottom-width:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" />
--->
-            </td>
-        </tr>
-    </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
-    <tbody class="mcnCaptionBlockOuter">
-        <tr>
-            <td class="mcnCaptionBlockInner" valign="top" style="padding:9px;">
-                
-
-<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionBottomContent" width="282">
-    <tbody><tr>
-        <td class="mcnCaptionBottomImageContent" align="center" valign="top" style="padding:0 9px 9px 9px;">
-        
-            
-
-            <img alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/sell-products-sm1.png" width="264" style="max-width:264px;" class="mcnImage">
-            
-        
-        </td>
-    </tr>
-    <tr>
-        <td class="mcnTextContent" valign="top" style="padding:0 9px 0 9px;" width="282">
-            <h4>Related products</h4><p>Next, use this spot to mention any other products that pair well with your main feature.</p><p><a href="#">View similar products »</a></p>
-        </td>
-    </tr>
-</tbody></table>
-
-<table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionBottomContent" width="282">
-    <tbody><tr>
-        <td class="mcnCaptionBottomImageContent" align="center" valign="top" style="padding:0 9px 9px 9px;">
-        
-            
-
-            <img alt="" src="https://cdn-images.mailchimp.com/template_images/gallery/sell-products-sm2.png" width="264" style="max-width:264px;" class="mcnImage">
-            
-        
-        </td>
-    </tr>
-    <tr>
-        <td class="mcnTextContent" valign="top" style="padding:0 9px 0 9px;" width="282">
-            <h4>What's on sale</h4><p>This is a good place to tell people about any current promotions at your store.</p><p><a href="#">Shop the sale »</a></p>
-        </td>
-    </tr>
-</tbody></table>
-
-
-
-
-
-            </td>
-        </tr>
-    </tbody>
-</table></td>
-                                        </tr>
-                                    </table>
-                                    <!--[if (gte mso 9)|(IE)]>
-                                    </td>
-                                    </tr>
-                                    </table>
-                                    <![endif]-->
-                                </td>
-                            </tr>
-                            <tr>
-                                <td align="center" valign="top" id="templateFooter" data-template-container>
-                                    <!--[if (gte mso 9)|(IE)]>
-                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
-                                    <tr>
-                                    <td align="center" valign="top" width="600" style="width:600px;">
-                                    <![endif]-->
-                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
-                                        <tr>
-                                            <td valign="top" class="footerContainer"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowBlock" style="min-width:100%;">
-    <tbody class="mcnFollowBlockOuter">
-        <tr>
-            <td align="center" valign="top" style="padding:9px" class="mcnFollowBlockInner">
-                <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentContainer" style="min-width:100%;">
-    <tbody><tr>
-        <td align="center" style="padding-left:9px;padding-right:9px;">
-            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width:100%;" class="mcnFollowContent">
-                <tbody><tr>
-                    <td align="center" valign="top" style="padding-top:9px; padding-right:9px; padding-left:9px;">
-                        <table align="center" border="0" cellpadding="0" cellspacing="0">
-                            <tbody><tr>
-                                <td align="center" valign="top">
-                                    <!--[if mso]>
-                                    <table align="center" border="0" cellspacing="0" cellpadding="0">
-                                    <tr>
-                                    <![endif]-->
-                                    
-                                        <!--[if mso]>
-                                        <td align="center" valign="top">
-                                        <![endif]-->
-                                        
-                                        
-                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
-                                                <tbody><tr>
-                                                    <td valign="top" style="padding-right:10px; padding-bottom:9px;" class="mcnFollowContentItemContainer">
-                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
-                                                            <tbody><tr>
-                                                                <td align="left" valign="middle" style="padding-top:5px; padding-right:10px; padding-bottom:5px; padding-left:9px;">
-                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="">
-                                                                        <tbody><tr>
-                                                                            
-                                                                                <td align="center" valign="middle" width="24" class="mcnFollowIconContent">
-                                                                                    <a href="http://www.facebook.com" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-facebook-48.png" alt="Facebook" style="display:block;" height="24" width="24" class=""></a>
-                                                                                </td>
-                                                                            
-                                                                            
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        
-                                        <!--[if mso]>
-                                        </td>
-                                        <![endif]-->
-                                    
-                                        <!--[if mso]>
-                                        <td align="center" valign="top">
-                                        <![endif]-->
-                                        
-                                        
-                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
-                                                <tbody><tr>
-                                                    <td valign="top" style="padding-right:10px; padding-bottom:9px;" class="mcnFollowContentItemContainer">
-                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
-                                                            <tbody><tr>
-                                                                <td align="left" valign="middle" style="padding-top:5px; padding-right:10px; padding-bottom:5px; padding-left:9px;">
-                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="">
-                                                                        <tbody><tr>
-                                                                            
-                                                                                <td align="center" valign="middle" width="24" class="mcnFollowIconContent">
-                                                                                    <a href="http://www.twitter.com/" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-twitter-48.png" alt="Twitter" style="display:block;" height="24" width="24" class=""></a>
-                                                                                </td>
-                                                                            
-                                                                            
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        
-                                        <!--[if mso]>
-                                        </td>
-                                        <![endif]-->
-                                    
-                                        <!--[if mso]>
-                                        <td align="center" valign="top">
-                                        <![endif]-->
-                                        
-                                        
-                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
-                                                <tbody><tr>
-                                                    <td valign="top" style="padding-right:10px; padding-bottom:9px;" class="mcnFollowContentItemContainer">
-                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
-                                                            <tbody><tr>
-                                                                <td align="left" valign="middle" style="padding-top:5px; padding-right:10px; padding-bottom:5px; padding-left:9px;">
-                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="">
-                                                                        <tbody><tr>
-                                                                            
-                                                                                <td align="center" valign="middle" width="24" class="mcnFollowIconContent">
-                                                                                    <a href="http://www.instagram.com/" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-instagram-48.png" alt="Link" style="display:block;" height="24" width="24" class=""></a>
-                                                                                </td>
-                                                                            
-                                                                            
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        
-                                        <!--[if mso]>
-                                        </td>
-                                        <![endif]-->
-                                    
-                                        <!--[if mso]>
-                                        <td align="center" valign="top">
-                                        <![endif]-->
-                                        
-                                        
-                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="display:inline;">
-                                                <tbody><tr>
-                                                    <td valign="top" style="padding-right:0; padding-bottom:9px;" class="mcnFollowContentItemContainer">
-                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem">
-                                                            <tbody><tr>
-                                                                <td align="left" valign="middle" style="padding-top:5px; padding-right:10px; padding-bottom:5px; padding-left:9px;">
-                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="">
-                                                                        <tbody><tr>
-                                                                            
-                                                                                <td align="center" valign="middle" width="24" class="mcnFollowIconContent">
-                                                                                    <a href="http://mailchimp.com" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-link-48.png" alt="Website" style="display:block;" height="24" width="24" class=""></a>
-                                                                                </td>
-                                                                            
-                                                                            
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        
-                                        <!--[if mso]>
-                                        </td>
-                                        <![endif]-->
-                                    
-                                    <!--[if mso]>
-                                    </tr>
-                                    </table>
-                                    <![endif]-->
-                                </td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-</tbody></table>
-
-            </td>
-        </tr>
-    </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="min-width:100%;">
-    <tbody class="mcnDividerBlockOuter">
-        <tr>
-            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
-                <table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #505050;">
-                    <tbody><tr>
-                        <td>
-                            <span></span>
-                        </td>
-                    </tr>
-                </tbody></table>
-<!--            
-                <td class="mcnDividerBlockInner" style="padding: 18px;">
-                <hr class="mcnDividerContent" style="border-bottom-color:none; border-left-color:none; border-right-color:none; border-bottom-width:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" />
--->
-            </td>
-        </tr>
-    </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top:9px;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
-			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
-                    <tbody><tr>
-                        
-                        <td valign="top" class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;">
-                        
-                            <em>Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.</em>
-<br>
-*|IFNOT:ARCHIVE_PAGE|*
-    *|LIST:DESCRIPTION|*
-    <br>
-    <br>
-    <strong>Our mailing address is:</strong>
-    <br>
-    *|HTML:LIST_ADDRESS_HTML|* *|END:IF|*
-    <br>
-    <br>
-	Want to change how you receive these emails?<br>
-    You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.
-    <br>
-    <br>
-    *|IF:REWARDS|* *|HTML:REWARDS|*
-*|END:IF|*
-
-                        </td>
-                    </tr>
-                </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
-</table></td>
-                                        </tr>
-                                    </table>
-                                    <!--[if (gte mso 9)|(IE)]>
-                                    </td>
-                                    </tr>
-                                    </table>
-                                    <![endif]-->
-                                </td>
-                            </tr>
-                        </table>
-                        <!-- // END TEMPLATE -->
-                    </td>
-                </tr>
-            </table>
-        </center>
-    <script type="text/javascript"  src="/fzrOJv6xXY0P80JBQBemmAId/Ymw7DSrV5puX/WRZ9AQ/Gi4U/UF8oWHY"></script></body>
-</html>
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title></title> <style type="text/css">@media only screen and (max-width: 640px) {    .sp-hidden-mob {        display: none !important        }    }</style><style type="text/css"> table,td{border-collapse:collapse}img{height:auto;line-height:100%;outline:0;-ms-interpolation-mode:bicubic}a,img{text-decoration:none}h1,h2,h3,h4,h5,p{line-height:1.5;margin:0 0 10px}ul>li{mso-special-format:bullet}h1,h2,h3,h4,h5{line-height:1.2;font-weight:400}h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5,p{font-size:14px}hr{margin:0}th.social_element,th.tc{font-weight:400;text-align:left}td,th,tr{border-color:transparent}.content-cell{vertical-align:top}.content-cell table.social,.content-cell table.social table,.content-cell table.social td,.content-cell table.social th,.content-cell table.sp-button,.content-cell table.sp-button table,.content-cell table.sp-button td,.content-cell table.sp-button th,img{border:0}#outlook a,.content-cell table.social td,.content-cell table.social th,.content-cell table.sp-button td,.content-cell table.sp-button th{padding:0}.content-cell .sp-button table td,.content-cell table.social{line-height:1}.content-cell>center>.sp-button{margin-left:auto;margin-right:auto}.content-cell .social,.content-cell .social_element,.content-cell .sp-button-side-padding,.content-cell .sp-button-text{border-color:transparent;border-width:0;border-style:none}.content-cell .sp-button-side-padding{width:21px}.content-cell .sp-button-text a{text-decoration:none;display:block}.content-cell .sp-button-text a img,.sp-video img{max-width:100%}.content-cell em,.content-cell span[style*=color]>a,.email-text em,.email-wrapper span[style*=color]>a{color:inherit}.content-cell>div>.sp-img,.content-cell>div>a>.sp-img,body{margin:0}.content-cell .link_img,.content-cell table.social .social_element img.social,.social_element img.social,.sp-video a{display:block}.content-cell .sp-button-img td{display:table-cell!important;width:initial!important}.content-cell>p,.email-text>p{line-height:inherit;color:inherit;font-size:inherit}.content-cell>table,.content-cell>table>tbody>tr>td,.content-cell>table>tbody>tr>th,.content-cell>table>tr>td,.content-cell>table>tr>th,.email-text>table,.email-text>table>tbody>tr>td,.email-text>table>tbody>tr>th,.email-text>table>tr>td,.email-text>table>tr>th{border-color:#ddd;border-width:1px;border-style:solid}.content-cell>table td,.content-cell>table th,.email-text>table td,.email-text>table th{padding:3px}.content-cell table.social .social_element,.social_element{padding:2px 5px;font-size:13px;font-family:Arial,sans-serif;line-height:32px}.content-cell table.social .social_element_t_3 img.social,.content-cell table.social .social_element_t_4 img.social,.content-cell table.social .social_element_t_5 img.social,.content-cell table.social .social_element_v_i_t img.social{display:inline}.email-text table th{text-align:center}.email-text pre{background-color:transparent;border:0;color:inherit;padding:0;margin:1em 0}.sp-video a{overflow:auto}@media only screen and (max-width:640px){.sp-hidden-mob{display:none!important}}body{padding:0}*{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspace:0;mso-table-rspace:0}.ExternalClass,.ReadMsgBody{width:100%}.ExternalClass *{line-height:100%}table{margin-bottom:0!important;border-color:transparent}u~div .gmail-hide{display:none}u~div .gmail-show{display:block!important}@media yahoo{.yahoo-hide{display:none}.yahoo-show{display:block!important}}.im{color:inherit!important}td[class^=xfmc]{width:inherit!important}@media only screen and (max-width:640px){.wrapper-table{min-width:296px}.sp-demo-label-link{display:block}div,table,td,td.content-cell>p,th.content-cell>p{width:100%!important}table{border-width:1px}div,td{-webkit-box-sizing:border-box;box-sizing:border-box}div{height:auto!important}td,th{margin-bottom:0;height:inherit!important}td.content-cell,th.content-cell{padding:15px!important}table.email-checkout.email-checkout-yandex,td.content-cell .social,th.content-cell .social{width:auto!important}td.content-cell .share th,td.content-cell .social td .share td,td.content-cell .social th,th.content-cell .share th,th.content-cell .social td .share td,th.content-cell .social th{display:inline-block!important}td,td.content-cell .share th.social_element_t_3,td.content-cell .share th.social_element_t_4,td.content-cell .social td .share td.social_element_t_3,td.content-cell .social td .share td.social_element_t_4,td.content-cell .social th.social_element_t_3,td.content-cell .social th.social_element_t_4,th,th.content-cell .share th.social_element_t_3,th.content-cell .share th.social_element_t_4,th.content-cell .social td .share td.social_element_t_3,th.content-cell .social td .share td.social_element_t_4,th.content-cell .social th.social_element_t_3,th.content-cell .social th.social_element_t_4{display:block!important}td.content-cell .share th a>img,td.content-cell .social td .share td a>img,td.content-cell .social th a>img,th.content-cell .share th a>img,th.content-cell .social td .share td a>img,th.content-cell .social th a>img{width:32px!important;height:32px!important}hr,td.content-cell>td,th.content-cell>td{width:100%}td.content-cell.padding-lr-0,th.content-cell.padding-lr-0{padding-left:0!important;padding-right:0!important}td.content-cell.padding-top-0,th.content-cell.padding-top-0{padding-top:0!important}td.content-cell.padding-bottom-0,th.content-cell.padding-bottom-0{padding-bottom:0!important}.sp-video{padding-left:15px!important;padding-right:15px!important}.wrapper-table>tbody>tr>td{padding:0}.block-divider{padding:2px 15px!important}.social_share{width:16px!important;height:16px!important}.sp-button td{display:table-cell!important;width:initial!important}.sp-button td.sp-button-side-padding{width:21px!important}hr,input,table{max-width:100%!important}.tc{width:100%!important}.inline-item,table.smallImg td.smallImg{display:inline!important}table.origin-table{width:95%!important}table.origin-table td{display:table-cell!important;padding:0!important}table.origin-table td img.small_img{max-width:120px!important}.p100_img{width:100%!important;max-width:100%!important;height:auto!important}}@media only screen and (max-width:640px) and screen and (-ms-high-contrast:active),only screen and (max-width:640px) and (-ms-high-contrast:none){td,th{float:left;width:100%;clear:both}.content-cell img,img:not(.p100_img){width:auto;height:auto;max-width:269px!important;margin-right:auto;display:block!important;margin-left:auto}}.content-cell{word-break:break-word}.content-cell *{-webkit-box-sizing:border-box;box-sizing:border-box}.rollover{font-size:0}.rollover .rollover-second,.rollover:hover .rollover-first{max-height:0!important;display:none!important}.rollover:hover .rollover-second{max-height:none!important;display:block!important;-o-object-fit:cover;object-fit:cover}@media only screen and (max-width:640px){.sp-hidden-mob,img.sp-img.desktop,img.sp-img.desktop.rollover-first,img.sp-img.desktop.rollover-second{display:none!important}img.sp-img.mobile{display:block!important}}@media only screen and (min-width:641px){img.sp-img.mobile,img.sp-img.mobile.rollover-first,img.sp-img.mobile.rollover-second{display:none!important}} </style> </head><body style='color:#444; font-family:Arial, "Helvetica Neue", Helvetica, sans-serif; font-size:14px; line-height:1.5; margin:0'>
+<table class="wrapper-table" cellpadding="5" cellspacing="0" border="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; background-repeat: no-repeat; background-position: left top; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td align="center" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="bodyTable" border="0" bgcolor="#ffffff" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 600px;">
+<tbody>
+<tr style="border-color: transparent;">
+<td border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="w" style="border-collapse: separate; font-size: 14px; line-height: 1.5; font-weight: normal; color: #333333; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="570" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: 1.2; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align: center; font-weight: normal; padding: 0;" align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: normal; white-space: pre-wrap; color: #808080;">WNDSports drives your business growing. </span><a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0089bf; font-size: 12px; line-height: 14.4px; text-align: right; background-color: #fff;" href="https://s7839000.sendpul.se/stubs/en/webversion/" align="right" bgcolor="#ffffff">View this message online</a></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: transparent; border-radius: 0px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_2_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="600" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
+<div id="wout_block_2_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 66; display: block; text-align: center;" width="100%" height="66" align="center"><center><img border="0" width="160" height="auto" class="desktop  sp-img small_img " align="center" alt="google_logo" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/google_logo.png" iout_block_2_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img " align="center" alt="google_logo" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/google_logo.png" iout_block_2_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 320px;" /></div>
+<!--<![endif]--></center></div>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 20px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="20" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_5" style="border-collapse: separate; font-size: 14px; line-height: 1.5; font-weight: normal; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="570" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<h3 style="line-height: 1.2; margin: 0 0 10px; font-weight: normal; font-size: 24px; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;"><span style="color: #000080;"><strong>Quality Up and Cost Down</strong></span></h3>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="color: #000080;"><strong>We make your products more competitive</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 16px;">Dear ,</span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 16px;">As a supplier of good quality, we supply inflatable boards to:</span></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="200" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #000000; border-radius: 0px; width: 100%;" bgcolor="#000000">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_27_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 196px; border-radius: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="140" height="136" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 30px;" valign="top">
+<div id="wout_block_27_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 130; display: block;" width="100%" height="130"><img border="0" width="140" height="auto" class="desktop  sp-img small_img " align="left" alt="BOTE-_7aeacb04" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/BOTE-_7aeacb04.png" iout_block_27_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img " align="left" alt="BOTE-_7aeacb04" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/BOTE-_7aeacb04.png" iout_block_27_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 200px;" /></div>
+<!--<![endif]--></div>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th width="200" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #adaa9b; border-radius: 0px; width: 100%;" bgcolor="#adaa9b">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_28_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 196px; border-radius: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="170" height="166" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<div id="wout_block_28_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 158; display: block;" width="100%" height="158"><img border="0" width="170" height="auto" class="desktop  sp-img small_img " align="left" alt="Flite-1_f0667e02" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/Flite-1_f0667e02.png" iout_block_28_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img " align="left" alt="Flite-1_f0667e02" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/Flite-1_f0667e02.png" iout_block_28_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 200px;" /></div>
+<!--<![endif]--></div>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th width="200" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_29_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 196px; border-radius: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="140" height="136" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 30px;" valign="top">
+<div id="wout_block_29_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 132; display: block;" width="100%" height="132"><img border="0" width="140" height="auto" class="desktop  sp-img small_img " align="left" alt="HEAD-1" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/HEAD-1.png" iout_block_29_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img " align="left" alt="HEAD-1" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/HEAD-1.png" iout_block_29_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 200px;" /></div>
+<!--<![endif]--></div>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_27" style="border-collapse: separate; font-size: 14px; line-height: 1.5; font-weight: normal; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="570" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 16px;">We look forward to building great products &nbsp;</span><span style="font-size: 16px; color: inherit;">with:</span></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #333333; border-radius: 0px; width: 100%;" bgcolor="#333333">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_23_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; border-radius: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="300" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
+<div id="wout_block_23_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 200; display: block;" width="100%" height="200"><img border="0" width="300" height="auto" class="desktop  sp-img small_img " align="left" alt="default_5f6727a6" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/default_5f6727a6.png" iout_block_23_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #333333; border-radius: 0px; width: 100%;" bgcolor="#333333">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_24" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 200px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; color: #ffffff; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="270" height="170" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>1. Neat Workmanship</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span>Good manufacturing practices apply; Effective processes in place; Proficient operators well trained.</span></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #333333; border-radius: 0px; width: 100%;" bgcolor="#333333">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_24" style="border-collapse: separate; font-size: 14px; line-height: 1.5; border-width: 1px; border-style: solid; border-color: transparent; height: 200px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; color: #333333; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="270" height="170" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>&nbsp;</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>2. Low Production Cost</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span>Low rentals; Healthy material management; Fast moving materials</span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_17_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="300" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
+<div id="wout_block_17_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 200; display: block;" width="100%" height="200"><img border="0" width="300" height="auto" class="desktop  sp-img small_img " align="left" alt="warehouse_30f9ef21" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/warehouse_30f9ef21.png" iout_block_17_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!-->
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img " align="left" alt="warehouse_30f9ef21" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/warehouse_30f9ef21.png" iout_block_17_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 300px;" /></div>
+<!--<![endif]--></div>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #333333; border-radius: 0px; width: 100%;" bgcolor="#333333">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_23_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; border-radius: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="300" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
+<div id="wout_block_23_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 200; display: block;" width="100%" height="200"><img border="0" width="300" height="auto" class="desktop  sp-img small_img " align="left" alt="test" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/test.png" iout_block_23_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #333333; border-radius: 0px; width: 100%;" bgcolor="#333333">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_24" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 200px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; color: #ffffff; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="270" height="170" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>&nbsp;</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>3. Consistent Tests</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span>100% full inspection at sealing and before packaging; Over 72 hour leakage tests</span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #333333; border-radius: 0px; width: 100%;" bgcolor="#333333">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_24" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 200px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; color: #333333; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="270" height="170" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>&nbsp;</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong><span>4. Excellent Build Quality</span></strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span>The great quality chosen by top brand and tier 1 partner, <strong>BOTE, FLITE, HEAD and TRANSE.</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: #333; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_17_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="300" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
+<div id="wout_block_17_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 200; display: block;" width="100%" height="200"><img border="0" width="300" height="auto" class="desktop  sp-img small_img " align="left" alt="quality" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/quality.png" iout_block_17_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 5px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="5" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_35" style="border-collapse: separate; font-size: 14px; line-height: 1.5; border-radius: 0px; font-weight: normal; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="270" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>Factory Video</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span>Check how we work on BOTEboards</span></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_32_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 200px; border-radius: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="300" height="200" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
+<div id="wout_block_32_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 200; display: block;" width="100%" height="200"><a target="_blank" rel="noopener noreferrer" class="link_img" href="https://u.pcloud.link/publink/show?code=XZc5ezVZwaaj0dpSHQyNIy15ruIRpB5rw8Gk" style="text-decoration: none; color: #0089bf; display: block;"><img border="0" width="300" height="auto" class="desktop  sp-img small_img " align="left" alt="Factory" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/Factory.png" iout_block_32_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!--></a>
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img " align="left" alt="Factory" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/Factory.png" iout_block_32_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 300px;" /></div>
+</div>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th width="300" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_36" style="border-collapse: separate; font-size: 14px; line-height: 1.5; border-radius: 0px; font-weight: normal; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="270" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 15px;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px;"><strong>Welding Tech</strong></span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span>Check how we use the innovative tech</span></p>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_33_element_0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; height: 200px; border-radius: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-lr-0 padding-top-0 padding-bottom-0" width="300" height="200" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding: 0;" valign="top">
+<div id="wout_block_33_element_0" style="font-size: 14px; line-height: 1.5; width: 100%; height: 200; display: block;" width="100%" height="200"><a target="_blank" rel="noopener noreferrer" class="link_img" href="https://u.pcloud.link/publink/show?code=XZU73zVZvAmpSA8F1RRWW3AwL1p4XFKrL9Vk" style="text-decoration: none; color: #0089bf; display: block;"><img border="0" width="300" height="auto" class="desktop  sp-img small_img " align="left" alt="" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/Welder_Video.png" iout_block_33_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; margin: 0; display: block; -ms-interpolation-mode: bicubic;" /><!--[if !mso]><!--></a>
+<div style="font-size: 14px; line-height: 1.5; mso-hide: all;"><img border="0" width="100%" height="auto" class="mobile  sp-img small_img " align="left" alt="" src="https://s7839000.sendpul.se/files/emailservice/userfiles/ab24a0e08a5e5cbdb4b4f5c471ddc6c67839000/Welder_Video.png" iout_block_33_element_0="" style="height: auto; line-height: 100%; outline: 0; text-decoration: none; border: 0; -ms-interpolation-mode: bicubic; display: none; width: 100%; max-width: 300px;" /></div>
+</div>
+<div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #ffffff; border-radius: 0px; width: 100%;" bgcolor="#ffffff">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" style="border-collapse: separate; font-size: 14px; line-height: 1.5; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="540" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding-left: 30px; padding-right: 30px; padding-top: 10px; padding-bottom: 30px;" valign="top"><center>
+<table cellpadding="0" border="0" cellspacing="0" class="sp-button raised auto-width" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; border: 0; margin-left: auto; margin-right: auto; width: auto !important; border-radius: 5px; box-shadow: inset 0 -3px 0 0 #c24d00; background: #ff6500;">
+<tbody>
+<tr style="border-color: transparent;">
+<td class="sp-button-text" style="border-collapse: collapse; border-color: transparent; border-width: 0; border-style: none; border: 0; padding: 0; align: center; border-radius: 5px; width: auto; height: 40px; vertical-align: middle; text-align: center;" width="auto" height="40" valign="middle" align="center">
+<table cellpadding="0" border="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; border: 0px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td align="center" style="border-collapse: collapse; border-color: transparent; border: 0; padding: 0; line-height: 1;"><a rel="noopener noreferrer" style="text-decoration: none; color: #fff; display: block; padding: 12px 18px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-family-short: arial; font-size: 16px; font-weight: bold;" href="mailto:mailto:info@wndsports.com?subject=">Contac Us For Catalog</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table class="separator" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; padding: 0px; height: 35px; width: 100%;">
+<tbody>
+<tr style="border-color: transparent;">
+<td height="35" style="border-collapse: collapse; border-color: transparent;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="wout_block_out_block_8" style="border-collapse: separate; font-size: 14px; line-height: 1.5; font-weight: normal; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell padding-top-0 padding-bottom-0" width="540" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding-left: 30px; padding-right: 30px; padding-top: 0; padding-bottom: 0;" valign="top">
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align: center; font-weight: normal; padding: 0;" align="center"><span style="font-size: 13px; line-height: 19.5px;">&copy; Copyright, 2022, WND Sports, LLC  Weihai</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; width: 100%;" border="0">
+<tbody>
+<tr style="border-color: transparent;"><th width="600" style="border-color: transparent; font-weight: 400; text-align: left; vertical-align: top;" cellpadding="0" cellspacing="0" class="tc" align="left" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-size: 14px; line-height: 1.5; background-color: #eeeeee; border-radius: 0px; width: 100%;" bgcolor="#eeeeee">
+<tbody>
+<tr style="border-color: transparent;">
+<td cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: transparent;">
+<table cellpadding="0" cellspacing="0" id="w" style="border-collapse: separate; font-size: 14px; line-height: 1.5; font-weight: normal; margin: 0px; overflow: hidden; width: 100%;">
+<tbody>
+<tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
+<td class="content-cell" width="540" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding-left: 30px; padding-right: 30px; padding-top: 20px; padding-bottom: 20px;" valign="top">
+<p style="line-height: 1.5; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align: center; font-weight: normal; padding: 0;" align="center"><span style="font-size: 13px;">You received this email as a client of WND Sports, LLC.</span><a href="http://%%unsubscribelink%%/">Unsubscribe</a><a target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0089bf; font-size: 13px; line-height: 19.5px; background-color: #fff;" href="https://s7839000.sendpul.se/stubs/en/unsubscribe/" bgcolor="#ffffff"></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
