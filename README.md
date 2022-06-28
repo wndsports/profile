@@ -618,7 +618,7 @@
 <tr class="content-row" style="border-color: transparent; color: #444; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
 <td class="content-cell" width="570" style="border-collapse: collapse; border-color: transparent; vertical-align: top; padding-left: 15px; padding-right: 15px; padding-top: 8px; padding-bottom: 8px;" valign="top">
 <p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-size: 20px; font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;"><strong>And More...</strong></span></p>
-<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">We offers not only products but also innovative and leading technologies in this industry:</span></p>
+<p style="line-height: inherit; margin: 0 0 10px; font-size: inherit; color: inherit; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; padding: 0;"><span style="font-family: 'segoe ui', segoe, 'avenir next', 'open sans', 'noto sans', sans-serif;">We offer not only products but also innovative and leading technologies in this industry:</span></p>
 <div style="font-size: 14px; line-height: 1.5; clear: both;"></div>
 </td>
 </tr>
